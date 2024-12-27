@@ -9,6 +9,10 @@ The usage is pretty simple.
 
 ````javascript
 import NullStream from '@trenskow/null-stream';
+
+const null = new NullStream();
+
+null.write('Garbage.');
 ````
 
 # License
