@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/null-stream",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "A simple writeable stream that outputs to nothing.",
   "main": "index.js",
   "type": "module",
